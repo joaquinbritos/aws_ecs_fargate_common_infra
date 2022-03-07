@@ -1,0 +1,1 @@
+# aws_ecs_fargate_common_infra
